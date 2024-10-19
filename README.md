@@ -27,7 +27,7 @@ During user research, 30 people were interviewed, and the following key challeng
 
 ## 💡 Solution Proposals
 
-<img src="assets/App-preview.png" align="right" width="350" height="250" style="margin-top: 40px;">
+<img src="assets/App.png" align="right" width="331" height="360" style="margin-top: 40px;">
 
 ### 1. **Discover Feature**:
 - **Short video content** (similar to Instagram Reels or YouTube Shorts) showcasing different dishes, restaurants, and trending cuisines.
@@ -101,6 +101,8 @@ During user research, 30 people were interviewed, and the following key challeng
 - **Customer Segments**: Users searching for restaurants, preferring home delivery, restaurants wanting to advertise, non-delivery restaurants, cloud kitchens
 - **Cost Structure**: Platform development, marketing, processing fees, employee salaries, legal fees
 - **Revenue Streams**: Restaurant listings, Zomato Gold, food delivery fees, consultancy, live events, Zomato Kitchen
+
+
 
 ## 🛠 Tools and Platform Used
 - **Figma**: For creating UX/UI prototypes.
