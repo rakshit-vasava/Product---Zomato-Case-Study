@@ -27,6 +27,8 @@ During user research, 30 people were interviewed, and the following key challeng
 
 ## 💡 Solution Proposals
 
+<img src="assets/App-preview.png" align="right" width="350" height="250" style="margin-top: 40px;">
+
 ### 1. **Discover Feature**:
 - **Short video content** (similar to Instagram Reels or YouTube Shorts) showcasing different dishes, restaurants, and trending cuisines.
 - **Personalized recommendations** based on past orders, popular food, and location trends.
