@@ -102,7 +102,7 @@ During user research, 30 people were interviewed, and the following key challeng
 - **Cost Structure**: Platform development, marketing, processing fees, employee salaries, legal fees
 - **Revenue Streams**: Restaurant listings, Zomato Gold, food delivery fees, consultancy, live events, Zomato Kitchen
 
-
+<img src="assets/BusinessCanvasModel.png" align="center" style="margin-top: 40px;">
 
 ## 🛠 Tools and Platform Used
 - **Figma**: For creating UX/UI prototypes.
